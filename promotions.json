@@ -1,0 +1,6 @@
+{ "clothes": { "Al_Rajhi_Bank": "Save 10% with Al Rajhi Bank", "Arab_National_Bank": "12% Off with Arab National Bank" } }
+{ "technologies": { "Arabic Islamic bank": "10% Off with Arabic Islamic Bank", "Jordan Islamic bank": "12% Off with Jordan Islamic Bank" } }
+{ "health": { "HSBC": "Save 10% with HSBC Bank", "CITIBANK": "12% Off with CITI Bank" } }
+{ "clothes": { "coupon_winter_sale": "15% Off Winter Collection", "loyalty_discount": "10% Off for Loyal Customers", "promo_code_CLOTH10": "10% Off with Promo Code CLOTH10" } }
+{ "technologies": { "coupon_5_or_more": "5% Off on 5 or more items", "coupon_2_or_more": "5% Off on 2 or more items", "promo_code_Mohammad": "25% Off with Promo Code Mohammad","new_user_offer": "15% Off for New Users"}}
+{ "health": { "HEALTH_DISCOUNT_1": "Save 10% on Health Products USE QE22F11", "HEALTH_DISCOUNT_2": "15% Off on Organic Health Products USE QA3211F"} }
